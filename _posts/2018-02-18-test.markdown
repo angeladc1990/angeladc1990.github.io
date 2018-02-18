@@ -1,0 +1,7 @@
+---
+layout: post
+title:  Mi segundo post.
+date:   2018-02-18 22:10:19 +0100
+categories: jekyll update
+---
+Mi segundo post de prueba.
