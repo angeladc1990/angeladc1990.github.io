@@ -6,6 +6,6 @@ categories: jekyll update
 ---
 Mi primer post de prueba.
 
-![Jekyll](/posts/images/image1)
+![My helpful screenshot]({{ "/images/screenshot.jpg" | absolute_url }})
 
-test test testjsjsjs
+Mi primera imagen.
