@@ -1,7 +1,12 @@
 ---
 layout: post
-title:  Mi tercer post.
+title:  Adverbs 
 date:   2018-02-18 22:10:19 +0100
 categories: jekyll update
 ---
-Mi tercer post de prueba.
+The adverbs and the adjectives in English
+Adjectives tell us something about a person or a thing. Adjectives can modify nouns (here: girl) or pronouns (here: she).
+
+Adverbs tell us in what way someone does something. Adverbs can modify verbs (here: drive), adjectives or other adverbs.
+
+![My helpful screenshot]({{ "/images/adverbs.jpg" | absolute_url }})
