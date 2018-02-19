@@ -8,4 +8,4 @@ Mi primer post de prueba.
 
 ![My helpful screenshot]({{ "/images/screenshot.jpg" | absolute_url }})
 
-Mi primera imagen.
+Mi primera imagen en mi primer post de prueba.
