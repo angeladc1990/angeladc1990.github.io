@@ -9,4 +9,5 @@ Adjectives tell us something about a person or a thing. Adjectives can modify no
 
 Adverbs tell us in what way someone does something. Adverbs can modify verbs (here: drive), adjectives or other adverbs.
 
+
 ![My helpful screenshot]({{ "/images/adverbs.jpg" | absolute_url }})
