@@ -15,3 +15,5 @@ or after a link verb like be, look or feel:
 
 Their house is beautiful.
 That film looks interesting.
+
+![My helpful screenshot]({{ "/images/Adjetives.jpg" | absolute_url }})
