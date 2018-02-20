@@ -4,7 +4,7 @@ title:  Adverbs
 date:   2018-02-18 22:10:19 +0100
 categories: jekyll update
 ---
-The adverbs and the adjectives in English
+1. The adverbs and the adjectives in English
 
 Adjectives tell us something about a person or a thing. Adjectives can modify nouns (here: girl) or pronouns (here: she).
 
@@ -12,3 +12,21 @@ Adverbs tell us in what way someone does something. Adverbs can modify verbs (he
 
 
 ![My helpful screenshot]({{ "/images/adverbs.jpg" | absolute_url }})
+
+2. Form 
+Adjective + -ly
+
+
+3. Use of adverbs 
+
+
+4. Types of adverbs
+
+
+5. How do know whether to use an adjective or an adverb? 
+
+
+6. Adjective or Adverb after special verbs 
+ 
+
+
