@@ -13,20 +13,20 @@ Adverbs tell us in what way someone does something. Adverbs can modify verbs (he
 
 ![My helpful screenshot]({{ "/images/adverbs.jpg" | absolute_url }})
 
-2. Form 
+2. #Form 
 Adjective + -ly
 
 
-3. Use of adverbs 
+3. #Use of adverbs 
 
 
-4. Types of adverbs
+4. #Types of adverbs
 
 
-5. How do know whether to use an adjective or an adverb? 
+5. #How do know whether to use an adjective or an adverb? 
 
 
-6. Adjective or Adverb after special verbs 
+6. #Adjective or Adverb after special verbs 
  
 
 
