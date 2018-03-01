@@ -4,7 +4,7 @@ title:  ¡Decide ahora y atrévete hacerlo!
 date:   2018-02-18 22:10:19 +0100
 categories: jekyll update
 ---
-![My helpful screenshot]({{ "/images/Girasol.jpg" | absolute_url }})
+![My helpful screenshot]({{ "/images/Girasol1.jpg" | absolute_url }})
 
 Mucho se habla del amor propio, pero ¿qué es eso? Pienso que amarse así misma va más allá de lo afectivo, romántico y espiritual. Aceptarnos y estar atentas a nuestras necesidades eso muy importancia. Este tema en ocasiones se puede confundir con prepotencia y a veces de creerse el centro del mundo, pero esa es una idea herrada. Querida amiga que te ames significa tener una espiritualidad generosa, de buen humor, inspiración, de dar y recibir amor, respeto por ti y las demás personas, pero para el tema de hoy lo más importante es que te hagas un análisis profundo y descubras tus actitudes. Si te cuesta creer en ti, llegó el momento de trabajar en ello. ¡No importa la edad que tengas!- Recuerda una situación en la que trabajaste y te esforzaste mucho por           
   conseguir algo o cumplir un objetivo.  - Piensa hasta dónde has sido capaz de llegar. - Piensa en los sueños que has tenido y cuantos has cumplido. 
