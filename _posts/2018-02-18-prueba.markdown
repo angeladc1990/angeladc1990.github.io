@@ -1,11 +1,17 @@
 ---
 layout: post
-title:  Mi primer post.
+title:  ¡Decide ahora y atrévete hacerlo! 
 date:   2018-02-18 22:10:19 +0100
 categories: jekyll update
 ---
-Mi primer post de prueba.
+Mucho se habla del amor propio, pero ¿qué es eso? Pienso que amarse así misma va más allá de lo afectivo, romántico y espiritual. Aceptarnos y estar atentas a nuestras necesidades eso muy importancia. Este tema en ocasiones se puede confundir con prepotencia y a veces de creerse el centro del mundo, pero esa es una idea herrada. Querida amiga que te ames significa tener una espiritualidad generosa, de buen humor, inspiración, de dar y recibir amor, respeto por ti y las demás personas, pero para el tema de hoy lo más importante es que te hagas un análisis profundo y descubras tus actitudes. Si te cuesta creer en ti, llegó el momento de trabajar en ello. ¡No importa la edad que tengas! - Recuerda una situación en la que trabajaste y te esforzaste mucho por           
+  conseguir algo o cumplir un objetivo.  - Piensa hasta dónde has sido capaz de llegar. - Piensa en los sueños que has tenido y cuantos has cumplido. 
 
-![My helpful screenshot]({{ "/images/screenshot.jpg" | absolute_url }})
+**¡Tu fortaleza es tu mejor arma, Valóratelo mujer!**Aun estas a tiempo de empezar de creer en ti. **“No hay amor suficiente capaz de llenar el vacío de una persona que no se ama a sí misma” ** ***(Irene Orce)*** esta frase es muy clara decide ahora ocupar el primer lugar en tu vida. 
 
-Mi primera imagen en mi primer post de prueba.
+En la actualidad las mujeres luchamos por un lugar en un entorno machista; laboral y doméstico. ¿A que me refiero? Fácilmente si preguntamos a un buscador, encontraremos mucha información acerca de la igualdad de género, el machismo o situación actual de la mujer en la sociedad y se refleja una triste realidad; y es que la mayor parte de mujeres trabajan en la economía informal, trabajos domésticos y se concentran en empleos peor remunerados y sin ninguna protección social.  Por otro lado, esta aquello del machismo doméstico, esto se da por la idea de que al ser el hombre quien se ocupa de los gastos, la mujer se convertirse esclava de su casa excluyendo al género masculino de ayudar dentro del hogar. Esto trae consigo algunas consecuencias como: - Autoestima baja.- Las mujeres suelen sentirse mantenidas y que no dan nada a cambio. - El hombre se aprovecha de su condición económica sacando en cara su 
+  aportación económica. - Sufrimiento. 
+
+Te has preguntado alguna vez ¿porque sigo en este trabajo? ¿porque sigo a lado de este hombre? o ¿porque solo estoy en casa y no hago nada por mí? querida lectora es completamente injusto entregar tu vida y esfuerzo a un trabajo en el que no te sientes bien, a un hombre que no te valora y mucho menos dejar que te consuma la depresión por no tener trabajo y no hacer nada al respecto. **¡Ya basta de todo eso!** Tú puedes empezar a construir un mejor escenario; alimentando tu amor propio, conócete más, cree en ti, rompe tus barreras internas, toma iniciativa, sé positiva y adopta una **actitud emprendedora.** Atrévete hacerlo en cualquiera que sea tu caso, ya seas “solo una ama de casa” como dirían muchos, si estas estudiando, eres soltera y estas desempleadas, etc. Puedes tener un ingreso económico que en principio no será mucho, pero que puede ir creciendo si eres constante y perseverante. El próximo jueves te diré como hacerlo... **¡No te pierdas el siguiente post!**
+![My helpful screenshot]({{ "/images/Girasol.jpg" | absolute_url }})
+
